@@ -1,0 +1,16 @@
+{
+    "name": "chatlist-master",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+
+    "scripts": {
+        "devStart": "nodemon server.js"
+    },
+    "author": "Dinesh Jani",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1",
+        "nodemon": "^2.0.4"
+    }
+}
