@@ -7,6 +7,7 @@ In this project i implement chatlist which has two operation:
     2.when i delete a message then below this message will shift upward till the occupying empty space.
     
  Data-structure which can perform in these operation will be
+ 
     1.find
     
     2.shift to front
